@@ -1,0 +1,7 @@
+https://github.com/grantjenks/python-wordsegment
+https://github.com/keredson/wordninja
+
+https://github.com/pythonnet/clr-loader
+https://github.com/pythonnet/pythonnet
+
+https://github.com/tomerfiliba/plumbum
