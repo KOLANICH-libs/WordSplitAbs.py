@@ -1,0 +1,23 @@
+
+# pycparser, which is a dependency of pythonnet, sometimes shits them
+lextab.py
+yacctab.py
+
+# Dicts
+/SymSpell.FrequencyDictionary
+
+# Dlls of the tool written in C#
+*.dll
+*.dll.so
+
+__pycache__
+*.pyc
+*.pyo
+/*.egg-info
+*.srctrlbm
+*.srctrldb
+build
+dist
+.eggs
+monkeytype.sqlite3
+/.ipynb_checkpoints
