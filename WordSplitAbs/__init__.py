@@ -1,6 +1,10 @@
 import typing
 from abc import ABC, abstractmethod
 from pathlib import Path
+from warnings import warn
+
+warn("We have moved from M$ GitHub to https://codeberg.org/KAbs/WordSplitAbs.py , read why on https://codeberg.org/KOLANICH/Fuck-GuanTEEnomo .")
+
 
 AVAILABLE_WORD_SPLITTERS = []  # type: typing.Itterable[WordSplitter]
 
